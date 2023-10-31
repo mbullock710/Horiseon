@@ -6,4 +6,6 @@ The objective of this assignment was to clean up some of the starter code to ref
 
 ## Screenshot of Webpage
 
+![_C__Users_MichaelBullock_bootcamp_challenge1_index html](https://github.com/mbullock710/challenge1/assets/148500556/b8e74265-94bd-4b08-9999-512daaaf66f3)
+
 ## Link to Deployed Application
