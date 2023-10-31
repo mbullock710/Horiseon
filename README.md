@@ -2,6 +2,8 @@
 
 ## Description
 
+The objective of this assignment was to clean up some of the starter code to reflect best practices which include, but are not limited to, utilizing semantic HTML code, following a logical HTML and CSS structure, including accessible alt attributes, etc. 
+
 The website is hosted by Horiseon Social Solution Services, Inc. The main content of the website is the Search Engine Optimization, Online Reputation Management, and Social Media Marketing sections, which can be navigated from the navigation bar within the header. The website also contains content related to Lead Generation, Brand Awareness, and Cost Management. The intended audience for this website is myself and the graders of this assignment.
 
 ## Screenshot of Webpage
