@@ -12,4 +12,4 @@ The website is hosted by Horiseon Social Solution Services, Inc. The main conten
 
 ## Link to Deployed Application
 
-https://mbullock710.github.io/challenge1/
+https://mbullock710.github.io/Horiseon/
